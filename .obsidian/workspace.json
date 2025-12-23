@@ -24,17 +24,16 @@
             }
           },
           {
-            "id": "76561d7defae3660",
+            "id": "1332c5968ff5f969",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Workouts/2025-12-23 - Free Workout/Free Workout.md",
-                "mode": "source",
-                "source": false
+                "file": "Exercises List.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Free Workout"
+              "icon": "lucide-table",
+              "title": "Exercises List"
             }
           }
         ],
@@ -198,20 +197,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "76561d7defae3660",
+  "active": "1332c5968ff5f969",
   "lastOpenFiles": [
-    "Templates/exercises/Abs/Abs - leg raises.md",
-    "Exercises List.base",
-    "Workouts/2025-12-23 - Free Workout/Free Workout.md",
-    "Add Workout or Exercise Here.md",
-    "README.md",
-    "Home.md",
     "Workouts History.base",
     "Workouts List.base",
+    "Add Workout or Exercise Here.md",
+    "Workouts/2025-12-23 - Free Workout/Free Workout.md",
     "Data Visualization.md",
-    "error-logs.md",
+    "Home.md",
     "Workouts/2025-12-23 - Free Workout/Log",
     "Workouts/2025-12-23 - Free Workout",
+    "Workouts/2025-12-23 - Free Workout/Log/2.md",
+    "Workouts/2025-12-23 - Free Workout/Log/1.md",
+    "README.md",
+    "error-logs.md",
+    "Templates/Custom.md",
+    "Exercises List.base",
+    "Templates/Workouts/gym/abc.md",
+    "Templates/exercises/Abs/Abs - leg raises.md",
     "Workouts",
     "Workouts/2025-12-19 - Free Workout/Free Workout 2.md",
     "Workouts/2025-12-19 - abc/abc 3.md",
@@ -230,11 +233,6 @@
     "Workouts/2025-12-19 - Free Workout/Log/2.md",
     "Workouts/2025-12-19 - Free Workout/Log/1.md",
     "Free Workout - Implementation Guide.md",
-    "Free Workout - Technical Details.md",
-    "Workouts/2025-12-18 - abc/abc.md",
-    "Workouts/2025-12-18 - abc/Log/1.md",
-    "Workouts/2025-12-18 - abc/Log/2.md",
-    "Workouts/2025-12-18 - abc/Log/3.md",
-    "Workouts/2025-12-18 - abc/Log/4.md"
+    "Free Workout - Technical Details.md"
   ]
 }
