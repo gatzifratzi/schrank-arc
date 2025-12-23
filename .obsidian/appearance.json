@@ -6,7 +6,7 @@
     "gym-log",
     "custom-scripts"
   ],
-  "cssTheme": "Underwater",
+  "cssTheme": "Cupertino",
   "interfaceFontFamily": "Monocraft",
   "textFontFamily": "jakobsXenon",
   "showRibbon": false,
