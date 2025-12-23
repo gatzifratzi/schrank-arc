@@ -6,14 +6,15 @@ time: 23:41
 exercises: []
 workout_order: []
 workout_type: Custom
-workout_place: 
+workout_place:
 tags:
   - workout
-Logs: []
+Logs:
+  - Workouts/2025-12-23 - Free Workout/Log/1.md
 ExerciseCounts: {}
 ExercisesSummary: ""
 Total Volume: 0
-duration: 0 Minutes
+duration: Ongoing
 ---
 
 ```dataviewjs
