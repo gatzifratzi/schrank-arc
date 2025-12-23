@@ -11,10 +11,15 @@ tags:
   - workout
 Logs:
   - Workouts/2025-12-23 - Free Workout/Log/1.md
-ExerciseCounts: {}
-ExercisesSummary: ""
-Total Volume: 0
-duration: Ongoing
+  - Workouts/2025-12-23 - Free Workout/Log/2.md
+  - Workouts/2025-12-23 - Free Workout/Log/3.md
+  - Workouts/2025-12-23 - Free Workout/Log/4.md
+ExerciseCounts:
+  Calves - single leg calf raises: 1
+  Core - plank: 1
+ExercisesSummary: Calves - single leg calf raises x1, Core - plank x1
+Total Volume: 400
+duration: 5 Minutes
 ---
 
 ```dataviewjs
