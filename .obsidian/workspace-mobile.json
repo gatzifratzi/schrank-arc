@@ -141,19 +141,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "ea04b7991f264e89",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,6 +157,8 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "35efd3a57cb4a96d",
-  "lastOpenFiles": []
+  "active": "e358a53f5bb4bc0b",
+  "lastOpenFiles": [
+    "Home.md"
+  ]
 }
