@@ -1,25 +1,19 @@
 ---
-id: c20475
+id: ccfd54
 workout_title: Free Workout
 date: 2025-12-23
-time: 23:41
+time: 23:53
 exercises: []
 workout_order: []
 workout_type: Custom
-workout_place:
+workout_place: 
 tags:
   - workout
-Logs:
-  - Workouts/2025-12-23 - Free Workout/Log/1.md
-  - Workouts/2025-12-23 - Free Workout/Log/2.md
-  - Workouts/2025-12-23 - Free Workout/Log/3.md
-  - Workouts/2025-12-23 - Free Workout/Log/4.md
-ExerciseCounts:
-  Calves - single leg calf raises: 1
-  Core - plank: 1
-ExercisesSummary: Calves - single leg calf raises x1, Core - plank x1
-Total Volume: 400
-duration: 5 Minutes
+Logs: []
+ExerciseCounts: {}
+ExercisesSummary: ""
+Total Volume: 0
+duration: 0 Minutes
 ---
 
 ```dataviewjs
